@@ -1,3 +1,10 @@
+/* Name: Alyssa Comstock
+ * Date: 9/7/2022
+ * Description:  Contains the simple last target function.  Given a 
+ * sorted list of numbers and a target, this program finds the first and last index it
+ * appears.  If the target does not exist in the list, displat [-1, -1]
+ * */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

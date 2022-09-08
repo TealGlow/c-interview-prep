@@ -10,3 +10,6 @@ echo "1123444444456 5"
 
 echo "1123444444456 7"
 ./last-target 1123444444456 7
+
+echo "1"
+./last-target 1
